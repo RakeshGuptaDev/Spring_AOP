@@ -8,6 +8,7 @@ import com.dao.MembershipDAO;
 public class MainDemoApp {
 
 	public static void main(String[] args) {
+		System.Out.Println("hi");
 
 		// read spring config java class
 		AnnotationConfigApplicationContext context =
